@@ -1,2 +1,1 @@
-#Display the output
-print('Hello Hoda!')
+print('Hello from a file')
